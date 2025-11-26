@@ -1,7 +1,7 @@
 ## Olá! eu sou Wesley bueno. 👋
 
 🌱 Atualmente sou servidor público e trabalho como Guarda civil Municipal.
-🔭 Estou buscando minha primeira oportunidade como estagiário na área de Tecnologia da Informação. Atualmente curso o 2º semestre de TI e estou desenvolvendo projetos para aprimorar minhas habilidades.
+🔭 Estou buscando minha primeira oportunidade como estagiário na área de Tecnologia da Informação. Atualmente curso o 3º semestre de TI e estou desenvolvendo projetos para aprimorar minhas habilidades.
 
 👨‍💻 Sobre mim  
 - Estudante do 3º semestre de Tecnologia da Informação  
